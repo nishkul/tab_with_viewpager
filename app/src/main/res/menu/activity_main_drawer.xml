@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+                android:id="@+id/nav_images"
+                android:icon="@drawable/image"
+                android:title="Images"/>
+        <item
+                android:id="@+id/nav_video"
+                android:icon="@drawable/video"
+                android:title="Video"/>
+        <item
+                android:id="@+id/nav_milestone"
+                android:icon="@drawable/milestone"
+                android:title="MileStone"/>
+        <item
+                android:id="@+id/nav_about_us"
+                android:icon="@drawable/about_us"
+                android:title="About us"/>
+    </group>
+
+
+</menu>
